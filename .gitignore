@@ -58,3 +58,4 @@ coverage.xml
 *.env
 *.venv
 gradient_norm/X_eval_E.npy
+BCICIV_2b_gdf.zip
