@@ -1,0 +1,14 @@
+{
+  "left": {
+    "log_psd_mse": 0.1665811389684677,
+    "global_percentile_mae": 0.0011222361354157329,
+    "n_real": 152,
+    "n_fake": 152
+  },
+  "right": {
+    "log_psd_mse": 0.18238554894924164,
+    "global_percentile_mae": 0.001546366955153644,
+    "n_real": 151,
+    "n_fake": 151
+  }
+}
