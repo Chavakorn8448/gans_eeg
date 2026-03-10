@@ -60,3 +60,11 @@ coverage.xml
 
 # Ignore checkpoints folder
 **/checkpoints/
+**/clone
+
+# Datasets
+*.edf*
+*.bdf
+
+# Data / archives
+datasets/**
