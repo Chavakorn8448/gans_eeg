@@ -66,5 +66,8 @@ coverage.xml
 *.edf*
 *.bdf
 
+# Database files
+*.db
+
 # Data / archives
 datasets/**
